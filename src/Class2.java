@@ -22,6 +22,7 @@ public class Class2 {
 
 public static void ozgur(){
     System.out.println("Şampiyon Fener");
+    salı günü tamamdır
 }
 
 
