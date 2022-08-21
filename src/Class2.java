@@ -6,7 +6,7 @@ public class Class2 {
     //taha
 
 
-// ahmet Bursa dan selamlar
+
 
 
 
@@ -44,5 +44,6 @@ public static void ozgur(){
 
 
 
-    //
+    //// ahmet Bursa dan selamlar
+    //    // 2. değişiklik yaptım
 }
