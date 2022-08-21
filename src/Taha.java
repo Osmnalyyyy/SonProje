@@ -2,9 +2,9 @@ public class Taha {
     public static void main(String[] args) {
 
         System.out.println("Taha Classi");
-        1();
+       bir();
     }
-    public static void 1(){
+    public static void bir(){
         System.out.println("Birinici method calisti");
     }
 
