@@ -59,7 +59,10 @@ public static void ozgur(){
     //// ahmet Bursa dan selamlar
     //    // 2. değişiklik yaptım
     /// 3. değişiklik yaptım
+    public static void ahmet(String ad){
+        System.out.println(ad);
+    }
 
-    //ahmet
+
 
 }
