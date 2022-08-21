@@ -9,5 +9,10 @@ public class Runner {
         Ahmet.ahmet();
 
 
+
+        //buraya diğer classlardan method çağırmaya izin vermiyor
+        // codleri run  yapamıyoruz
+
+
     }
 }
