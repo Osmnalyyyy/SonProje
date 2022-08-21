@@ -7,6 +7,7 @@ public class Runner {
         Osman.aslanBacanak();
         Taha.bir();
         Ahmet.ahmet();
+        Ozgur.ozgur();
 
 
     }
