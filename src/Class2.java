@@ -27,7 +27,7 @@ public static void ozgur(){
 
     // yusuf
 
-
+//giriş yaptım pushladım:)
 
 
 
