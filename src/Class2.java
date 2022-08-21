@@ -11,7 +11,7 @@ public class Class2 {
         System.out.println("Hello World :)");
     }
 
-// ahmet Bursa dan selamlar
+
 
 
 
@@ -54,5 +54,12 @@ public static void ozgur(){
 
 
 
+
+
+    //// ahmet Bursa dan selamlar
+    //    // 2. değişiklik yaptım
+    /// 3. değişiklik yaptım
+
     //ahmet
+
 }
