@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Hasan {
     public static void main(String[] args) {
         // oldu sonunda metodumuz
