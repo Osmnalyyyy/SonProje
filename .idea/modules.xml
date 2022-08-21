@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SonProje.iml" filepath="$PROJECT_DIR$/.idea/SonProje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githubCalisma.iml" filepath="$PROJECT_DIR$/githubCalisma.iml" />
     </modules>
   </component>
 </project>

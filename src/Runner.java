@@ -9,6 +9,7 @@ public class Runner {
         Ahmet.ahmet();
         Ozgur.ozgur();
         Taha.err();
+        System.out.println(Yusuf.ikiSayininCarpimininKaresi(25, 24));
 
 
         //buraya diğer classlardan method çağırmaya izin vermiyor
