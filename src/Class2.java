@@ -6,7 +6,7 @@ public class Class2 {
     //taha
 
 
-
+// ahmet Bursa dan selamlar
 
 
 
