@@ -37,6 +37,7 @@ public static void ozgur(){
 
         System.out.println("Başarılı İşleme :)");
         System.out.println("Let's Go");
+        System.out.println(":D");
     }
 
 
