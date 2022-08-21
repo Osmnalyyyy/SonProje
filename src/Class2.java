@@ -3,4 +3,44 @@ public class Class2 {
         System.out.println("deneme1 2");
         System.out.println("Şampiyon Galatasaray");
     }
+    //taha
+
+
+
+
+
+
+
+
+
+    // ozgur
+
+
+
+
+
+
+
+
+
+    // yusuf
+
+
+
+
+
+
+
+
+
+    // hasan
+
+
+
+
+
+
+
+
+    //
 }
