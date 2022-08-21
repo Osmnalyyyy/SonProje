@@ -7,6 +7,9 @@ public class Class2 {
     }
     //taha
 
+    public static void taha(){
+        System.out.println("Hello World :)");
+    }
 
 // ahmet Bursa dan selamlar
 
