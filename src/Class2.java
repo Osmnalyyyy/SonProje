@@ -28,6 +28,10 @@ public static void ozgur(){
     // yusuf
 
 //giriş yaptım pushladım:)
+    public static void calısma (){
+
+        System.out.println("Başarılı İşleme :)");
+    }
 
 
 
