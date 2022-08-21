@@ -8,7 +8,7 @@ public class Runner {
         Taha.bir();
         Ahmet.ahmet();
         Ozgur.ozgur();
-
+        Taha.err();
 
 
         //buraya diğer classlardan method çağırmaya izin vermiyor
