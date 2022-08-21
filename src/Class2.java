@@ -31,6 +31,7 @@ public static void ozgur(){
     public static void calısma (){
 
         System.out.println("Başarılı İşleme :)");
+        System.out.println("Let's Go");
     }
 
 
