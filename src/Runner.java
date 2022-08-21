@@ -10,5 +10,10 @@ public class Runner {
         Ozgur.ozgur();
 
 
+
+        //buraya diğer classlardan method çağırmaya izin vermiyor
+        // codleri run  yapamıyoruz
+
+
     }
 }
